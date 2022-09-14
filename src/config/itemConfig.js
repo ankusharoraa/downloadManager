@@ -17,7 +17,7 @@ export const config = {
         />
       ),
       style: { backgroundColor: "#FF0000", color: "white" },
-      url: "https://www.youtube.com/",
+      url: "https://youtu.be/soySGrpf598",
     },
     {
       title: "Follow us on Twitter",
@@ -25,6 +25,7 @@ export const config = {
         <Twitter style={{ position: "relative", top: "6px", height: "25px" }} />
       ),
       style: { backgroundColor: "#00acee", color: "white" },
+      url: "twitter.com/reyasaltoyt",
     },
     {
       title: "Follow us on Instagram",
@@ -34,6 +35,7 @@ export const config = {
         />
       ),
       style: { backgroundColor: "#c13584", color: "white" },
+      url: "https://www.instagram.com/rey_asalto_yt/",
     },
     {
       title: "Subscribe our channel",
@@ -41,6 +43,7 @@ export const config = {
         <YouTube style={{ position: "relative", top: "6px", height: "25px" }} />
       ),
       style: { backgroundColor: "#FF0000", color: "white" },
+      url: "https://www.youtube.com/channel/UC87m1Fk0SsrQ8Esk9XnsIuA?sub_confirmation=1",
     },
     {
       title: "Comment on video",
@@ -48,17 +51,7 @@ export const config = {
         <Comment style={{ position: "relative", top: "6px", height: "23px" }} />
       ),
       style: { backgroundColor: "#FF0000", color: "white" },
+      url: "https://youtu.be/soySGrpf598",
     },
   ],
 };
-
-export const downloadLinks = [
-  {
-    blogName: "in-this-video-i-will-provide-you-free.html",
-    link: "https://www.mediafire.com/file/m9echinnr5sg6a0/Jett_Alert_by_Rey-Asalto.rar/file",
-  },
-  {
-    blogName: "free-valorant-animated-stream-package.html",
-    link: "https://www.mediafire.com/file/gvjbo8ays1zqgzb/Sage_Stream_Pack.rar/file",
-  },
-];
