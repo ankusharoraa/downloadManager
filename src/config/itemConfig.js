@@ -7,7 +7,6 @@ import {
 } from "@mui/icons-material";
 
 export const config = {
-  name: "Pack Name",
   items: [
     {
       title: "Like Video",
@@ -25,7 +24,7 @@ export const config = {
         <Twitter style={{ position: "relative", top: "6px", height: "25px" }} />
       ),
       style: { backgroundColor: "#00acee", color: "white" },
-      url: "twitter.com/reyasaltoyt",
+      url: "https://www.twitter.com/reyasaltoyt",
     },
     {
       title: "Follow us on Instagram",
